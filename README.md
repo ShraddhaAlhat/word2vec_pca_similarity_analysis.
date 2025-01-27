@@ -43,7 +43,7 @@ This project demonstrates the process of training a custom Word2Vec model, apply
 - **Word2Vec + PCA**: By applying PCA, the relationships between words are visualized in 2D, and cosine similarity can be computed for words in this reduced space as well.
 - ![Alt text](download (C:\Users\Admin\Downloads\download (4).png)
 - ## PCA Visualization
-![PCA Visualization](C:\Users\Admin\Downloads\download (4).png)
+![PCA Visualization](C:\Users\Admin\Downloads\download (4))
 
 ## Conclusion
 This project provides a complete workflow for training word embeddings using Word2Vec, reducing the dimensionality using PCA, visualizing the word vectors, and calculating word similarities. These techniques are foundational for many NLP applications like document clustering, recommendation systems, and information retrieval.
