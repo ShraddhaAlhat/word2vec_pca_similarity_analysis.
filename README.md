@@ -44,7 +44,9 @@ This project demonstrates the process of training a custom Word2Vec model, apply
 - ![Alt text](download (C:\Users\Admin\Downloads\download (4).png)
 - ## PCA Visualization
 ![PCA Visualization](C:\Users\Admin\Downloads\download (4))
-
+<p align="center">
+  <img src="C:\Users\Admin\Downloads\download (4).png" alt="Image Description" width="300" height="200">
+</p>
 ## Conclusion
 This project provides a complete workflow for training word embeddings using Word2Vec, reducing the dimensionality using PCA, visualizing the word vectors, and calculating word similarities. These techniques are foundational for many NLP applications like document clustering, recommendation systems, and information retrieval.
 
