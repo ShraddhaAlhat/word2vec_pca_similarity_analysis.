@@ -45,6 +45,9 @@ This project demonstrates the process of training a custom Word2Vec model, apply
 <p align="center">
   <img src="https://github.com/ShraddhaAlhat/word2vec_pca_similarity_analysis./blob/main/download%20(4).png?raw=true" alt="Image Description" width="900" height="600">
 </p>
+<p align="center">
+  <img src="https://github.com/ShraddhaAlhat/word2vec_pca_similarity_analysis./blob/main/download%20(5).png?raw=true" alt="Image Description" width="900" height="600">
+</p>
 
 ## Conclusion
 This project provides a complete workflow for training word embeddings using Word2Vec, reducing the dimensionality using PCA, visualizing the word vectors, and calculating word similarities. These techniques are foundational for many NLP applications like document clustering, recommendation systems, and information retrieval.
